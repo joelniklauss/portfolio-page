@@ -1,38 +1,35 @@
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    color: #333;
+    background-color: #f4f4f4;
 }
 
 header {
-    background-color: #333;
-    color: white;
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
     text-align: center;
-    padding: 1em 0;
 }
 
-nav ul {
-    list-style: none;
-    padding: 0;
+header h1 {
+    margin: 0;
 }
 
-nav ul li {
-    display: inline;
-    margin: 0 10px;
+section {
+    padding: 20px;
+    margin: 0;
 }
 
-nav ul li a {
-    color: white;
-    text-decoration: none;
+#about, #portfolio, #contact {
+    background: #fff;
+    margin-bottom: 20px;
 }
 
-/* Responsive Design */
-@media screen and (max-width: 600px) {
-    nav ul li {
-        display: block;
-        margin: 10px 0;
-    }
+h2 {
+    color: #333;
 }
 
-/* Weitere Stile */
+/* Add more styling as needed */
