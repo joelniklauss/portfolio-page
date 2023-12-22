@@ -335,27 +335,20 @@ img {
   width: 85%;
 }
 
+.skills_ger {
+  width: 100%;
+}
+
+.skills_fre {
+  width: 70%;
+}
+
+.skills_eng {
+  width: 80%;
+}
+
 .skills__img {
   border-radius: .5rem;
-}
-
-/* ===== WORK =====*/
-.work__container {
-  row-gap: 2rem;
-}
-
-.work__img {
-  box-shadow: 0px 4px 25px rgba(14, 36, 49, 0.15);
-  border-radius: .5rem;
-  overflow: hidden;
-}
-
-.work__img img {
-  transition: 1s;
-}
-
-.work__img img:hover {
-  transform: scale(1.1);
 }
 
 /* ===== CONTACT =====*/
