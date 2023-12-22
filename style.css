@@ -273,6 +273,7 @@ img {
 
 /* ===== WORK EXPERIENCE ===== */
 .work__container {
+  width: 100%;
   row-gap: 2rem;
   text-align: center;
 }
