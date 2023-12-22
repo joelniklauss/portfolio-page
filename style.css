@@ -7,7 +7,7 @@
   /*===== Color =====*/
   /* HSL color mode */
   --hue-color: 0;
-  --first-color: hsl(var(--hue-color), 0%, 75%);
+  --first-color: hsl(var(--hue-color), 0%, 65%);
   --second-color: hsl(var(--hue-color), 0%, 20%);
   /*===== Font and typography =====*/
   --body-font: 'Poppins', sans-serif;
