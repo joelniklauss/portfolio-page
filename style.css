@@ -331,19 +331,15 @@ img {
   width: 65%;
 }
 
-.skills__ux {
-  width: 85%;
-}
-
-.skills_ger {
+.skills__ger {
   width: 100%;
 }
 
-.skills_fre {
+.skills__fre {
   width: 70%;
 }
 
-.skills_eng {
+.skills__eng {
   width: 80%;
 }
 
